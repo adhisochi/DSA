@@ -1,3 +1,7 @@
+/*
+It's good to include here a comment containing the question you are solving and a description of your proposed solution
+    */
+
 #include <iostream>
 #include <vector>
 
